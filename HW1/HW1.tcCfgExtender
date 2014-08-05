@@ -54,6 +54,7 @@
 					</Node>
 					<Node name="3">
 						<Node name="editor">
+							<Node name="0"/>
 							<Prp name="editor" type="S" value="{A4CFCF31-1BFC-4566-9991-3867C001BFD3}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{DFBA83D2-5190-43D4-9A6C-EB2CA4570F49}"/>
